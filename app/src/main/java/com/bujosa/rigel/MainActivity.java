@@ -1,4 +1,4 @@
-package com.bujosa.myapplication;
+package com.bujosa.rigel;
 
 import androidx.appcompat.app.AppCompatActivity;
 
